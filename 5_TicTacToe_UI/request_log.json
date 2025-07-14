@@ -1,0 +1,3 @@
+{
+  "request": {"headers":{"action":"login","Controller":"player"},"body":{"password":"1234567","username":"Nisim"}}
+}
